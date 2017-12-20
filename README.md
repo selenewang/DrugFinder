@@ -5,3 +5,6 @@ The project is to establish the document analysis pipeline where given a list of
 
 ## People
 Kailing Wang (kw1946@nyu.edu)
+
+
+Note: The instructor from Roivant (cooperative company) has asked me to limit the distribution of the electronic version of the capstone poster. So should you need the poster, please reach me out via email. Thanks for your understanding!
